@@ -63,7 +63,7 @@ The dataset includes the following features:
 
 `Applicant_ID`, `Applicant_Income`, `Coapplicant_Income`, `Employment_Status`, `Employer_Category`, `Age`, `Marital_Status`, `Dependents`, `Education_Level`, `Gender`, `Credit_Score`, `Existing_Loans`, `DTI_Ratio`, `Savings`, `Collateral_Value`, `Loan_Amount`, `Loan_Term`, `Loan_Purpose`, `Property_Area`, `Loan_Approved`
 
-> The dataset is not included in this repository. Place your CSV at the path expected by `preprocess_data()` in `src/preprocessing.py`.
+
 
 ---
 
